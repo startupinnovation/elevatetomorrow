@@ -31,7 +31,6 @@ h1, h2 {
     color: #004080;
 }
 
-/* Override just in the header */
 header h1 {
     color: white;
 }
